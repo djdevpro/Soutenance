@@ -2,7 +2,7 @@
     <div>Auteurs : 
         <a href="">Estelle Ouaro</a> 
         , 
-        <a href="">Youcef Djidjelli</a>
+        <a href="https://www.linkedin.com/in/ydji/">Youcef Djidjelli</a>
         , 
         <a href="">Jean Szleper</a>
         <br>
