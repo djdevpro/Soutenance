@@ -1,0 +1,1 @@
+{"fig": {"data": [{"alignmentgroup": "True", "bingroup": "x", "hovertemplate": "AttendanceTimeSeconds_mob=%{x}<br>count=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#000001", "pattern": {"shape": ""}}, "name": "", "nbinsx": 20, "offsetgroup": "", "orientation": "v", "showlegend": false, "x": 

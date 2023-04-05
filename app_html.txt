@@ -1,0 +1,18 @@
+<div class="credentials"> 
+    <div>Auteurs : 
+        <a href="">Estelle Ouaro</a> 
+        , 
+        <a href="">Youcef Djidjelli</a>
+        , 
+        <a href="">Jean Szleper</a>
+        <br>
+        Bootcamp Data Scientist Janvier 2023
+        <br>
+        Données :
+        <a href="https://data.london.gov.uk/dataset/london-fire-brigade-incident-records">Incidents</a>
+        ,
+        <a href ="https://data.london.gov.uk/dataset/london-fire-brigade-mobilisation-records">Mobilisations</a>
+        ,
+        <a href="https://london-fire.labs.theodi.org/data/stations.csv">Casernes</a>
+    </div>
+</div>

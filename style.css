@@ -1,0 +1,102 @@
+
+
+.logo svg{
+    color: #363636;
+    fill: #363636;
+}
+
+.css-ffhzg2  .logo svg{
+    color: #fff;
+    fill: #fff;
+}
+
+/* box alert */
+
+.alert{
+    background-color: #ffcc00;
+    color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    
+
+}
+.danger{
+    background-color: #973737;
+    color: #fff;
+}
+@media (prefers-color-scheme: dark) {
+    .logo svg{
+        color: #fff;
+     }
+ }
+ 
+ section footer{
+        display: none !important;
+
+ }
+
+ section[data-testid="stSidebar"] > div {
+
+    background-image: linear-gradient(45deg, rgba(189, 189, 189, 0.32), rgb(255 255 255 / 21%));
+ }
+
+ section:nth-child(1) hr {
+    margin: 0 !important;
+}
+
+
+section:nth-child(1) .stRadio label:nth-child(1) {
+   display: none !important;
+}
+
+
+section:nth-child(1) .stRadio > div > label:nth-child(1) {
+    display: inherit !important;
+ }
+
+
+.credentials{
+
+    font-size: 14px;
+    border: 1px dashed #ccc;
+    padding: 10px;
+}
+.intro_credentials {
+  text-align: left;
+}
+
+.intro_credentials .presentation {
+  text-align: left;
+}
+
+.intro_credentials .authors {
+  text-align: left;
+}
+
+.intro_credentials .data {
+  text-align: left;
+}
+
+h1[id="temps-de-r-ponse-de-la-brigade-des-pompiers-de-londres"] {
+  text-align: left;
+}
+
+.intro_body {
+  margin-bottom: 100px;
+}
+
+.intro_body .description {
+  text-align: justify;
+}
+
+.intro_body .challenge {
+  text-align: justify;
+}
+
+.intro_body .methods {
+  text-align: justify;
+}

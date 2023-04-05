@@ -1,0 +1,2 @@
+,num_features,num_observations,ratio_null_values,ratio_null_values_clean_data,ratio_obs_without_null_values_clean_data,num_obs_without_null_values_clean_data
+0,92,515347,9.28,1.35,38.1,196347
